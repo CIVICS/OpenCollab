@@ -16,11 +16,11 @@ For scratch notes (to get started)
 * 
 # Next Section - Econ Impact
 
-*Money
-*Nonmoney
+* Money
+* Nonmoney
 
-#Social Impact
+# Social Impact
 
-*Families
-*Dating 
+* Families
+* Dating 
 
