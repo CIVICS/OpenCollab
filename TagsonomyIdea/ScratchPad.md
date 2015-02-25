@@ -15,3 +15,12 @@ For scratch notes (to get started)
 * Walk to FreeLawFounder
 * 
 # Next Section - Econ Impact
+
+*Money
+*Nonmoney
+
+#Social Impact
+
+*Families
+*Dating 
+
