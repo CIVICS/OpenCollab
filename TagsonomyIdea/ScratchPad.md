@@ -1,3 +1,7 @@
+This article stub is being advanced in the Tagsonomy repository of the CollabX GitHub organization, at:   
+https://github.com/collabx/Tagsonomy/wiki/Draft-Short-Article  
+
+======
 For scratch notes (to get started)
 
 
